@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/activity_open_enter.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/anim/activity_open_enter.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\decelerate_quint.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\anim\\decelerate_quint.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\open_exit.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\anim\\open_exit.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/out_up.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/anim/out_up.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/open_enter.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/anim/open_enter.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/design_fab_in.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\activity_open_exit.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\anim\\activity_open_exit.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/out_down.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/anim/out_down.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/activity_open_exit.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/anim/activity_open_exit.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/design_snackbar_in.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\in_down.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\anim\\in_down.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/decelerate_quint.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/anim/decelerate_quint.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\open_enter.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\anim\\open_enter.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\in_up.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\anim\\in_up.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/in_up.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/anim/in_up.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_fab_in.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_out.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/in_down.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/anim/in_down.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/design_fab_out.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_in.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/open_exit.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/anim/open_exit.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_fab_out.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\out_down.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\anim\\out_down.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\activity_open_enter.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\anim\\activity_open_enter.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/design_snackbar_out.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\out_up.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\anim\\out_up.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_in.xml"
+    }
+]

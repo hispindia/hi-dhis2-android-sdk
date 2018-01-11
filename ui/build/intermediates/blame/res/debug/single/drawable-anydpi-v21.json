@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_event_capture.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_event_capture.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_cancel_grey.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cancel_grey.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_offline.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_offline.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_error.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_error.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_notification.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notification.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_dropdown_grey.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dropdown_grey.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_my_location.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_my_location.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_save.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_save.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_back.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_dashboard.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_dashboard.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_tick.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_tick.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_data_capture.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_data_capture.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_help.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_help.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_profile.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_profile.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_search.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_check.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_check.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_help_round.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_help_round.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_report.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_report.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_add.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_tracker_capture.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_tracker_capture.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_settings.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_report.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_report.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_double_tick.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_double_tick.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_dashboard.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_help_round.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_help_round.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_error.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_error.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_chevron_right.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_chevron_right.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_chevron_left.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_chevron_left.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_delete.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_tracker_capture.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_tracker_capture.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cancel_white.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_cancel_white.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_help.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_help.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_chevron_left.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chevron_left.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_filter.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_filter.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow_back.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_arrow_back.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_person_black_24dp.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_my_location.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_my_location.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cancel_grey.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_cancel_grey.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_filter.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_filter.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_info.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_synchronized.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_synchronized.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_add.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow_forward.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_arrow_forward.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_data_capture.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_data_capture.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_notification.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notification.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_synchronized.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_synchronized.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_tick.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_tick.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_chevron_right.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_profile.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_profile.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_check.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_check.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_cancel_white.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cancel_white.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_refresh.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_refresh.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_double_tick.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_double_tick.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_info.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_forward.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_forward.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_delete.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_delete.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_event_capture.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_event_capture.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_settings.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_settings.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_save.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_save.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_refresh.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_refresh.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_dropdown_grey.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_dropdown_grey.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_offline.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_offline.xml"
+    }
+]

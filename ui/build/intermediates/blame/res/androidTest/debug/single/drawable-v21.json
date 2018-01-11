@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\button_selector_blue.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\button_selector_blue.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/drawable-v21/button_selector_blue.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/drawable-v21/button_selector_blue.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\button_background_light.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\button_background_light.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/drawable-v21/button_background_light.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/drawable-v21/button_background_light.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

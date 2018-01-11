@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\menu_refresh.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\menu\\menu_refresh.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/menu/menu_refresh.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/menu/menu_refresh.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/menu/menu_refresh_filter.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/menu/menu_refresh_filter.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/res/merged/androidTest/debug/menu/menu_drawer_default.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-new-sdk/ui/build/intermediates/bundles/debug/res/menu/menu_drawer_default.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\menu_refresh_filter.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\menu\\menu_refresh_filter.xml"
+    },
+    {
+        "merged": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\menu_drawer_default.xml",
+        "source": "/media/Workings/HISP/Android/Tibet/dhis2-android-trackercapture/C:\\TIbet-1909\\dhis2-android-new-sdk\\ui\\build\\intermediates\\bundles\\debug\\res\\menu\\menu_drawer_default.xml"
+    }
+]

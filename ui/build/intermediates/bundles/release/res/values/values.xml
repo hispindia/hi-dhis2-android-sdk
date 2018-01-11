@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="synchronization_period_option_keys">
+        <item>15 minutes</item>
+        <item>1 hour</item>
+        <item>4 hours</item>
+        <item>1 day</item>
+    </string-array>
+    <string-array name="synchronization_period_option_values">
+        <item>15</item>
+        <item>60</item>
+        <item>@string/synchronization_period_option_value_default</item>
+        <item>1440</item>
+    </string-array>
+    <color name="color_accent_dark">#FFF57C00</color>
+    <color name="color_accent_default">#FFFF9800</color>
+    <color name="color_accent_light">#FFFFE0B2</color>
+    <color name="color_divider">#FFB6B6B6</color>
+    <color name="color_material_green_default">#FF8BC34A</color>
+    <color name="color_material_red_dark">#FFD32F2F</color>
+    <color name="color_material_red_default">#FFF44336</color>
+    <color name="color_material_red_light">#FFFFCDD2</color>
+    <color name="color_navigation_text_disabled">#24000000</color>
+    <color name="color_navigation_text_enabled">#8a000000</color>
+    <color name="color_primary_dark">#FF194261</color>
+    <color name="color_primary_default">#FF276696</color>
+    <color name="color_primary_light">#FF3284C3</color>
+    <color name="color_text_primary">#FF212121</color>
+    <color name="color_text_primary_inverse">#FFFFFFFF</color>
+    <color name="color_text_secondary">#FF727272</color>
+    <declare-styleable name="ButtonHint"><attr format="string" name="hint"/></declare-styleable>
+    <declare-styleable name="CircleView"><attr format="color|reference" name="stroke_color"/><attr format="dimension|reference" name="stroke_width"/><attr format="dimension" name="circle_radius"/><attr format="dimension" name="circle_gap"/><attr format="color|reference" name="fill_color"/></declare-styleable>
+    <declare-styleable name="ViewFont"><attr format="reference" name="font"/></declare-styleable>
+    <dimen name="circle_stroke_width">6dp</dimen>
+    <dimen name="keyline_default">16dp</dimen>
+    <dimen name="navigation_avatar_radius">32dp</dimen>
+    <dimen name="navigation_drawer_width">304dp</dimen>
+    <dimen name="navigation_header_height">192dp</dimen>
+    <dimen name="progressbar_stroke_width">10dp</dimen>
+    <dimen name="text_size_large">17sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="titlebar_height">56dp</dimen>
+    <integer name="activity_anim_duration">300</integer>
+    <string name="account_description">Managing current login session</string>
+    <string name="account_name">Account</string>
+    <string name="action_settings">Settings</string>
+    <string name="application_settings">Application</string>
+    <string name="background_synchronization_description_off">
+        Application data will not be synced in the background
+    </string>
+    <string name="background_synchronization_description_on">
+        Application data will be synced in the background
+    </string>
+    <string name="background_synchronization_key">backgroundSynchronization</string>
+    <string name="background_synchronization_name">Background synchronization</string>
+    <string name="cancel_option">Cancel</string>
+    <string name="choose_filter">Choose filter</string>
+    <string name="choose_organisation_unit">Choose organisation unit</string>
+    <string name="choose_program">Choose program</string>
+    <string name="choose_section">Choose section</string>
+    <string name="clear_and_logout">Clear and log out</string>
+    <string name="confirm_user">Confirm user</string>
+    <string name="crash_reports_description_off">
+        No information will be sent
+    </string>
+    <string name="crash_reports_description_on">
+        Crash information will be sent to DHIS2 developers
+    </string>
+    <string name="crash_reports_key">crashReports</string>
+    <string name="crash_reports_name">Crash reports</string>
+    <string name="date_format">dd/MM/yy HH:mm</string>
+    <string name="delete">Delete</string>
+    <string name="delete_report_entity_dialog_message">The Entity will be lost forever. You will have to create a new Entity and re-enter any information.</string>
+    <string name="delete_report_entity_dialog_title">Delete this Report Entity?</string>
+    <string name="documentation_header">Documentation:</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_item_apps">Apps</string>
+    <string name="drawer_item_dashboard">Dashboard</string>
+    <string name="drawer_item_data_capture">Data capture</string>
+    <string name="drawer_item_event_capture">Event capture</string>
+    <string name="drawer_item_help">Help</string>
+    <string name="drawer_item_information">Information</string>
+    <string name="drawer_item_other">Other</string>
+    <string name="drawer_item_profile">Profile</string>
+    <string name="drawer_item_settings">Settings</string>
+    <string name="drawer_item_status">Status</string>
+    <string name="drawer_item_synchronized">Synchronized: %s</string>
+    <string name="drawer_item_tracker_capture">Tracker capture</string>
+    <string name="drawer_item_tracker_capture_reports">BID reports</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="duedate">Due date</string>
+    <string name="edit_columns">Edit columns</string>
+    <string name="enddate">End date</string>
+    <string name="enter_coordinates">Enter coordinates</string>
+    <string name="enter_date">Enter date</string>
+    <string name="enter_integer">Enter integer</string>
+    <string name="enter_latitude">Enter latitude</string>
+    <string name="enter_long_text">Enter long text</string>
+    <string name="enter_longitude">Enter longitude</string>
+    <string name="enter_negative_integer">Enter negative integer</string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_positive_integer">Enter positive integer</string>
+    <string name="enter_positive_integer_or_zero">Enter positive integer or zero</string>
+    <string name="enter_text">Enter text</string>
+    <string name="error_message">Error</string>
+    <string name="eventname">Event name</string>
+    <string name="filter_options">Filter available options</string>
+    <string name="filter_title">Filter</string>
+    <string name="find_option">Find option</string>
+    <string name="font_name_bold">Roboto-Bold.ttf</string>
+    <string name="font_name_condensed">Roboto-Condensed.ttf</string>
+    <string name="font_name_light">Roboto-Light.ttf</string>
+    <string name="font_name_medium">Roboto-Medium.ttf</string>
+    <string name="font_name_regular">Roboto-Regular.ttf</string>
+    <string name="hours">h</string>
+    <string name="latitude_error_message">Latitude must be in range from -90 to 90</string>
+    <string name="libraries_header">Libraries used:</string>
+    <string name="log_in">Log in</string>
+    <string name="logged_in_as">Logged in as:</string>
+    <string name="logged_in_at">At server:</string>
+    <string name="logout_message">
+        Are you sure you want to log out? All your data stored on the device will
+        get lost if you choose to log out.
+    </string>
+    <string name="logout_option">Log out</string>
+    <string name="logout_title">Logging out</string>
+    <string name="longitude_error_message">Longitude must be in range from -180 to 180</string>
+    <string name="mandatory_indicator">*</string>
+    <string name="min_ago">m ago</string>
+    <string name="never">never</string>
+    <string name="no">No</string>
+    <string name="no_organisation_units">You are not assigned to any Organisation Units. Please contact system administrator.</string>
+    <string name="no_programs">You do not have any programs assigned to Organisation unit or you do not have the sufficient user roles. Please contact system administrator.</string>
+    <string name="now">now</string>
+    <string name="password">Password</string>
+    <string name="pick_date">Pick date</string>
+    <string name="report_date">Report date</string>
+    <string name="report_entity">Report Entity</string>
+    <string name="report_entity_deletion_error">Unable to delete Report Entity</string>
+    <string name="server_url">Server URL</string>
+    <string name="settings">Settings</string>
+    <string name="startdate">Start date</string>
+    <string name="stub_description">Description</string>
+    <string name="sync">Sync</string>
+    <string name="sync_notification_description_off">
+        No notifications will be shown
+    </string>
+    <string name="sync_notification_description_on">
+        You will be notified of background syncing
+    </string>
+    <string name="sync_notification_key">syncNotifications</string>
+    <string name="sync_notification_name">Background sync notifications</string>
+    <string name="sync_now">Sync now</string>
+    <string name="sync_status_error_message">Something went wrong. Please, try to re-upload event or contact system administrator</string>
+    <string name="sync_status_error_title">Error</string>
+    <string name="sync_status_offline_message">This item has not yet been synchronized with the server</string>
+    <string name="sync_status_offline_title">Not Synced</string>
+    <string name="sync_status_ok_message">This item has been successfully synchronized with the server</string>
+    <string name="sync_status_ok_title">Synced</string>
+    <string name="synchronization_period_description">Syncing every </string>
+    <string name="synchronization_period_key">synchronizationPeriod</string>
+    <string name="synchronization_period_name">Synchronization period</string>
+    <string name="synchronization_period_option_value_default">240</string>
+    <string name="syncing">Synchronizing</string>
+    <string name="sys_sync_disabled_warning">"Enable auto-sync data from system settings."</string>
+    <string name="today_date">Today\'s date</string>
+    <string name="two">2</string>
+    <string name="unsynchronized_data_values">You need to synchronize your changes with the
+        server before logging out. Please check your Internet connection and press
+        the synchronization button
+    </string>
+    <string name="user_settings">User</string>
+    <string name="username">Username</string>
+    <string name="warning_hidefieldwithvalue">The following fields with value are being hidden and value has been blanked.</string>
+    <string name="yes">Yes</string>
+    <style name="AppTheme.AlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorPrimary">@color/color_primary_default</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent_default</item>
+    </style>
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- PreferenceFragment theme -->
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>
+        <!-- AlertDialogTheme theme -->
+        <item name="alertDialogTheme">@style/AppTheme.AlertDialog</item>
+
+        <!-- Colour palette -->
+        <item name="colorPrimary">@color/color_primary_default</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent_default</item>
+
+        <!-- General properties -->
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+    <style name="AppTheme.Dialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">@color/color_primary_default</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent_default</item>
+
+        <!-- General properties -->
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+    <style name="AppTheme.Main" parent="AppTheme.Base">
+    </style>
+</resources>
