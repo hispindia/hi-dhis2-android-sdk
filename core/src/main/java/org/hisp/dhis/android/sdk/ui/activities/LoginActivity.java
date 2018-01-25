@@ -121,7 +121,7 @@ public class LoginActivity extends Activity implements OnClickListener {
         if (server == null) {
             server = mPrefs.getServerUrl();
             if(server == null) {
-                server = "https://";
+                server = "http://139.162.16.101/tibet_pro";
             }
         }
 
