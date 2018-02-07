@@ -272,12 +272,15 @@ final class TrackerDataLoader extends ResourceController {
         }
         OrganisationUnit ou=MetaDataController.getOrganisationUnit(organisationUnitUid);
 
+        //requirement is to download all the data from the top most organization
+        //because patient may go to a different org unit so data should be accessible from all the
+        //orgunits
         if(ou.getLevel()==6) {
             organisationUnitUid="WADZCI3Xnnt";
 
         }
             List<TrackedEntityInstance> trackedEntityInstances = unwrapResponse(dhisApi
-                .getTrackedEntityInstances(organisationUnitUid,
+                .getTrackedEntityInstancesFromAllAccessibleOrgUnits(organisationUnitUid,
                         QUERY_MAP_FULL), ApiEndpointContainer.TRACKED_ENTITY_INSTANCES);
         return trackedEntityInstances;
     }
