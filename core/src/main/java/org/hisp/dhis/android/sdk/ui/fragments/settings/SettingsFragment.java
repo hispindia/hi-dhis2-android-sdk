@@ -79,6 +79,7 @@ public class SettingsFragment extends Fragment
     private TextView syncTextView;
     private String progressMessage;
 
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -112,17 +113,23 @@ public class SettingsFragment extends Fragment
         mProgessBar.setVisibility(View.GONE);
         logoutButton.setOnClickListener(this);
         synchronizeButton.setOnClickListener(this);
+        //changed by ifhaam for tracking syncing status on 7-2-2018
+        if(DhisController.getInstance().isSyncing()){
+            synchronizeButton.setEnabled(false);
+            mProgessBar.setVisibility(View.VISIBLE);
+            synchronizeButton.setText("Synchronizing...");
+        }
 
-        //if(DhisController.isLoading() && getProgressMessage() != null)
-        {
-            //syncTextView.setText(getProgressMessage());
-            //Log.d(TAG, getProgressMessage());
-        }
-        //else if(!DhisController.isLoading())
-        {
-            //setSummaryFromLastSync in syncTextView
-            //syncTextView.setText(DhisController.getLastSynchronizationSummary());
-        }
+//        if(DhisController.isLoading() && getProgressMessage() != null)
+//        {
+//            syncTextView.setText(getProgressMessage());
+//            Log.d(TAG, getProgressMessage());
+//        }
+//        else if(!DhisController.isLoading())
+//        {
+//            //setSummaryFromLastSync in syncTextView
+//            syncTextView.setText(DhisController.getLastSynchronizationSummary());
+//        }
     }
     @Override
     public boolean onOptionsItemSelected(MenuItem menuItem) {
@@ -187,6 +194,7 @@ public class SettingsFragment extends Fragment
                         DhisService.synchronize(context);
                     }
                 }.start();
+
                 synchronizeButton.setEnabled(false);
                 mProgessBar.setVisibility(View.VISIBLE);
                 synchronizeButton.setText("Synchronizing...");
@@ -275,10 +283,13 @@ public class SettingsFragment extends Fragment
 
         //if(!DhisController.isLoading())
         {
-            enableUi(true);
+            //enableUi(true);
         }
         //else
         //    enableUi(false);
+
+        enableUi(!DhisController.getInstance().isSyncing());//changed to show interactive message about
+        //syncing status on 7-2-2018 by ifhaam
     }
 
     public ActionBar getActionBar() {

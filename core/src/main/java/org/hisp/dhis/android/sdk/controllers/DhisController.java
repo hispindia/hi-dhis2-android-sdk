@@ -30,6 +30,7 @@
 package org.hisp.dhis.android.sdk.controllers;
 
 import android.content.Context;
+import android.util.Log;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.joda.JodaModule;
@@ -37,6 +38,7 @@ import com.squareup.okhttp.HttpUrl;
 
 import org.hisp.dhis.android.sdk.controllers.metadata.MetaDataController;
 import org.hisp.dhis.android.sdk.controllers.tracker.TrackerController;
+import org.hisp.dhis.android.sdk.events.LoadingMessageEvent;
 import org.hisp.dhis.android.sdk.events.UiEvent;
 import org.hisp.dhis.android.sdk.network.APIException;
 import org.hisp.dhis.android.sdk.network.Credentials;
@@ -82,6 +84,8 @@ public final class DhisController {
 
     private boolean blocking = false;
 
+    private boolean syncing = false;//variable added for checking syncing status on 7-2-2018
+
     public static DhisController getInstance() {
         return Dhis2Application.dhisController;
     }
@@ -110,10 +114,16 @@ public final class DhisController {
      */
     static void synchronize(final Context context)
             throws APIException, IllegalStateException {
+        getInstance().setSyncing(true);
         Dhis2Application.getEventBus().post(new UiEvent(UiEvent.UiEventType.SYNCING_START));
         sendData();
         loadData(context);
+        Dhis2Application.getEventBus().post(new LoadingMessageEvent());
         getInstance().getSyncDateWrapper().setLastSyncedNow();
+        getInstance().setSyncing(false);
+        Dhis2Application.getEventBus().post(new UiEvent(UiEvent.UiEventType.SYNCING_END));
+
+
     }
 
     public static void forceSynchronize(Context context) throws APIException, IllegalStateException {
@@ -205,4 +215,14 @@ public final class DhisController {
         return getInstance().syncDateWrapper;
     }
 
+
+    //methods implemented for checking syncing status by ifhaam
+    //on 7-2-2017
+    public boolean isSyncing(){
+        return syncing;
+    }
+
+    public void setSyncing(boolean val){
+        this.syncing = val;
+    }
 }
