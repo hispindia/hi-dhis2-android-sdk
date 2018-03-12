@@ -56,7 +56,7 @@ public class ProgramWrapper {
     public static List<DbOperation> setReferences(Program program) {
         List<DbOperation> operations = new ArrayList<>();
         Map<String, Attribute> attributes = new HashMap<>();
-        if(program != null) {
+        if(program != null && program.getUid() != null) {
             operations.addAll(update(program));
             operations.add(DbOperation.save(program));
             int sortOrder = 0;
@@ -76,7 +76,8 @@ public class ProgramWrapper {
                     for (ProgramStageSection programStageSection : programStage.getProgramStageSections()) {
                         operations.add(DbOperation.save(programStageSection));
                         //programStageSection.async().save();
-                        for (ProgramStageDataElement programStageDataElement : programStageSection.getProgramStageDataElements()) {
+                        for (ProgramStageDataElement programStageDataElement :
+                                getProgramStageDataElementsBySection(programStage,programStageSection)) {
                             programStageDataElement.setProgramStageSection(programStageSection.getUid());
                             operations.add(DbOperation.save(programStageDataElement));
                             operations.addAll(saveDataElementAttributes(programStageDataElement.getDataElementObj(), attributes));
@@ -108,6 +109,31 @@ public class ProgramWrapper {
         }
         return operations;
     }
+
+    private static List<ProgramStageDataElement> getProgramStageDataElementsBySection(
+            ProgramStage programStage, ProgramStageSection programStageSection) {
+
+        List<ProgramStageDataElement> programStageDataElements = new ArrayList<>();
+
+        if (programStageSection.getDataElements() != null){
+
+            //v.2.27
+            for (ProgramStageDataElement programStageDataElement:
+                    programStage.getProgramStageDataElements()) {
+                for (DataElement dataElement:programStageSection.getDataElements()){
+                    if (dataElement.getUid().equals(programStageDataElement.getDataElement().getUid())){
+                        programStageDataElements.add(programStageDataElement);
+                    }
+                }
+            }
+
+            return programStageDataElements;
+        }else{
+            //v.2.26
+            return programStageSection.getProgramStageDataElements();
+        }
+    }
+
 
     private static List<DbOperation> update(Program program) {
         List<DbOperation> operations = new ArrayList<>();
@@ -141,7 +167,7 @@ public class ProgramWrapper {
                 operations.add(DbOperation.delete(programStage));
             }
             for (ProgramIndicator programIndicator : program.getProgramIndicators()) {
-                //operations.add(DbOperation.delete(programIndicator));
+                operations.add(DbOperation.delete(programIndicator));
             }
         }
 
@@ -149,10 +175,10 @@ public class ProgramWrapper {
     }
 
     private static DbOperation saveStageRelation(ProgramIndicator programIndicator, String programSection) {
-            ProgramIndicatorToSectionRelationship stageRelation = new ProgramIndicatorToSectionRelationship();
-            stageRelation.setProgramIndicator(programIndicator);
-            stageRelation.setProgramSection(programSection);
-            return DbOperation.save(stageRelation);
+        ProgramIndicatorToSectionRelationship stageRelation = new ProgramIndicatorToSectionRelationship();
+        stageRelation.setProgramIndicator(programIndicator);
+        stageRelation.setProgramSection(programSection);
+        return DbOperation.save(stageRelation);
     }
 
     private static List<DbOperation> saveDataElementAttributes(DataElement dataElement, Map<String, Attribute> attributes){
