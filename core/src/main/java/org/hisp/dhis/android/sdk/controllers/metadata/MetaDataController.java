@@ -95,6 +95,7 @@ import org.hisp.dhis.android.sdk.persistence.models.TrackedEntityAttribute$Table
 import org.hisp.dhis.android.sdk.persistence.models.TrackedEntityAttributeGeneratedValue;
 import org.hisp.dhis.android.sdk.persistence.models.TrackedEntityAttributeGeneratedValue$Table;
 import org.hisp.dhis.android.sdk.persistence.models.TrackedEntityAttributeGroup;
+import org.hisp.dhis.android.sdk.persistence.models.TrackedEntityAttributeValue;
 import org.hisp.dhis.android.sdk.persistence.models.TrackedEntityInstance;
 import org.hisp.dhis.android.sdk.persistence.models.User;
 import org.hisp.dhis.android.sdk.persistence.models.UserAccount;
@@ -301,6 +302,11 @@ public final class MetaDataController extends ResourceController {
     public static List<TrackedEntityInstance> getTrackedEntityInstancesFromLocal() {
         return new Select().from(TrackedEntityInstance.class).queryList();
     }
+
+    public static List<TrackedEntityAttributeValue> getteiValues(String trackedentityattribute) {
+        return new Select().from(TrackedEntityAttributeValue.class).where(Condition.column(TrackedEntityAttributeValue$Table.TRACKEDENTITYATTRIBUTEID).is(trackedentityattribute)).queryList();
+    }
+
     /**
      * Returns a list of programs assigned to the given organisation unit id
      *
